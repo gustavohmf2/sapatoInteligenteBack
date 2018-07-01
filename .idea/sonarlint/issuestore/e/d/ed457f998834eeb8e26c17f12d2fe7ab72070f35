@@ -1,0 +1,7 @@
+
+usquid:UselessImportCheck"JRemove this unused import 'br.com.sapatointeligente.models.SensorPressao'.(€ãÆ8Ÿ›»ıÂ,
+ˆsquid:UselessImportCheck"XRemove this unused import 'br.com.sapatointeligente.repository.SensorPressaoRepository'.(†ø¼“ûÿÿÿÿ8Ÿ›»ıÂ,
+_squid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8Ÿ›»ıÂ,
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ÿ›»ıÂ,
+usquid:UselessImportCheck"ERemove this unused import 'br.com.sapatointeligente.models.Paciente'.(ãø¯øÿÿÿÿ8Ÿ›»ıÂ,
+Zsquid:S3655#"7Call "Optional#isPresent()" before accessing the value.(µáÌŞÿÿÿÿÿ8“à–êÃ,

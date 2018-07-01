@@ -1,0 +1,23 @@
+
+nsquid:S1871"MThis branch's code block is the same as the block for the branch on line 147.(ηάΣ±ώÿÿÿÿ8νττΓ,
+Άsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΜΝχ‡όÿÿÿÿ8νττΓ,
+‹"squid:ClassVariableVisibilityCheck"SMake pressao a static final constant or non-public and provide accessors if needed.(Ί°όÿÿÿÿ8Η»–σΓ,
+Hsquid:ObjectFinalizeCheck"Remove this call to finalize().(ΐΛά8νττΓ,
+"squid:ClassVariableVisibilityCheck"TMake paciente a static final constant or non-public and provide accessors if needed.(οφ…ϋÿÿÿÿ8Η»–σΓ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΟτιÒ8νττΓ,
+Άsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¦Πϊÿÿÿÿ8νττΓ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(θ·τΒ8νττΓ,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8νττΓ,
+Rsquid:S3655"1Call "si.isPresent()" before accessing the value.(•‹ϊΆόÿÿÿÿ8ΛίµυΓ,
+\squid:S2259"@A "NullPointerException" could be thrown; "gp" is nullable here.(ΑδΏ8νττΓ,
+?squid:S1148"#Use a logger to log this exception.(Σωσÿ8νττΓ,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Σ±Υωÿÿÿÿ8Η»–σΓ,
+Gsquid:S1481"&Remove this unused "s" local variable.(•‹ϊΆόÿÿÿÿ8νττΓ,
+?squid:S1148"#Use a logger to log this exception.(Σωσÿ8νττΓ,
+Hsquid:ObjectFinalizeCheck"Remove this call to finalize().(ΐΛά8νττΓ,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(λζΞύÿÿÿÿ8νττΓ,
+Vsquid:S1854"5Remove this useless assignment to local variable "s".(•‹ϊΆόÿÿÿÿ8νττΓ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ά¥Η ψÿÿÿÿ8νττΓ,

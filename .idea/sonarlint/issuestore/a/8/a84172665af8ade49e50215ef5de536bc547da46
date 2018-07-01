@@ -1,0 +1,24 @@
+
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(îÚ¶8ÉÃİöÃ,
+Xsquid:S2274~":Remove this call to "wait" or move it into a "while" loop.(Šä8°œØõÃ,
+Xsquid:S1854>"5Remove this useless assignment to local variable "s".(•‹ú¢üÿÿÿÿ8ÑşÊÃ,
+qsquid:S1871­"MThis branch's code block is the same as the block for the branch on line 164.(çÜÓ±şÿÿÿÿ8¡˜ñÃ,
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(è·ôÂ8İÛÍÃ,
+Tsquid:S3655>"1Call "si.isPresent()" before accessing the value.(•‹ú¢üÿÿÿÿ8ÑşÊÃ,
+Bsquid:S1148€"#Use a logger to log this exception.(Óùóÿ8İÛÍÃ,
+vsquid:ModifiersOrderChecky"EReorder the modifiers to comply with the Java Language Specification.(ëæÎˆıÿÿÿÿ8İÛÍÃ,
+"squid:ClassVariableVisibilityCheck"SMake pressao a static final constant or non-public and provide accessors if needed.(ºŠ°üÿÿÿÿ8ÑşÊÃ,
+Osquid:S1068$",Remove this unused "interval" private field.(ÚˆÏîûÿÿÿÿ8ÂØœöÃ,
+_squid:S2259"@A "NullPointerException" could be thrown; "gp" is nullable here.(Áä¿8É…±ğÃ,
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ÏôéÒ8Ò¬åğÃ,
+Isquid:S1481>"&Remove this unused "s" local variable.(•‹ú¢üÿÿÿÿ8ÑşÊÃ,
+vsquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(Ó±Õùÿÿÿÿ8ÑşÊÃ,
+¥squid:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¦ŠĞúÿÿÿÿ8İÛÍÃ,
+"squid:ClassVariableVisibilityCheck"TMake paciente a static final constant or non-public and provide accessors if needed.(ïö…ûÿÿÿÿ8ÑşÊÃ,
+¥squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌÍ÷‡üÿÿÿÿ8İÛÍÃ,
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Ü¥Ç øÿÿÿÿ8ÑşÊÃ,
+Csquid:S1181"%Catch Exception instead of Throwable.(ëß‹™8Íç×õÃ,

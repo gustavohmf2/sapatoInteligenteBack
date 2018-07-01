@@ -1,0 +1,35 @@
+
+Ksquid:S1481="-Remove this unused "saparoid" local variable.(¿üãê8âÏõ²Ä,
+vsquid:ModifiersOrderCheck~"EReorder the modifiers to comply with the Java Language Specification.(ëæÎˆıÿÿÿÿ8Äòº±Ä,
+Osquid:S1068"",Remove this unused "interval" private field.(ÚˆÏîûÿÿÿÿ8¢âƒ±Ä,
+Ysquid:S2274ƒ":Remove this call to "wait" or move it into a "while" loop.(Šä8Äòº±Ä,
+\
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(˜äŒˆùÿÿÿÿ8íßıµÄ,
+Zsquid:S1854="<Remove this useless assignment to local variable "saparoid".(¿üãê8âÏõ²Ä,
+\
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(˜äŒˆùÿÿÿÿ8ÿÂ¶Ä,
+"squid:ClassVariableVisibilityCheck"SMake pressao a static final constant or non-public and provide accessors if needed.(ºŠ°üÿÿÿÿ8¢âƒ±Ä,
+W
+squid:S106§"9Replace this use of System.out or System.err by a logger.(é‡ŞÔ8íßıµÄ,
+W
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ÏôéÒ8Äòº±Ä,
+Ssquid:S3655;"7Call "Optional#isPresent()" before accessing the value.(å¾&8âÏõ²Ä,
+W
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(Øğ‘Õ8íßıµÄ,
+vsquid:ModifiersOrderCheck7"EReorder the modifiers to comply with the Java Language Specification.(ÒÕÚºşÿÿÿÿ8¡âƒ±Ä,
+esquid:S2259»"AA "NullPointerException" could be thrown; "not" is nullable here.(ÜÛÓ–şÿÿÿÿ8ë¿Ğ¶Ä,
+Csquid:S2129¿"Remove this "Float" constructor(Å¹öøÿÿÿÿ8ß¨½¶Ä,
+Usquid:S2589ª"7Remove this expression which always evaluates to "true"(¤­ŞB8îÇ™²Ä,
+V
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ü­¯ˆ8Äòº±Ä,
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Ü¥Ç øÿÿÿÿ8¢âƒ±Ä,
+¥squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌÍ÷‡üÿÿÿÿ8Äòº±Ä,
+Bsquid:S1148…"#Use a logger to log this exception.(Óùóÿ8Äòº±Ä,
+"squid:ClassVariableVisibilityCheck"TMake paciente a static final constant or non-public and provide accessors if needed.(ïö…ûÿÿÿÿ8¢âƒ±Ä,
+¥squid:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¦ŠĞúÿÿÿÿ8Äòº±Ä,
+Dsquid:S1181„"%Catch Exception instead of Throwable.(ëß‹™8Äòº±Ä,
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(îÚ¶8Äòº±Ä,
+W
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Âœƒ©8ˆÑƒ¶Ä,

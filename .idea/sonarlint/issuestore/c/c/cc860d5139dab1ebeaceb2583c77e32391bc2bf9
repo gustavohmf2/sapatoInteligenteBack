@@ -1,0 +1,5 @@
+
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€®ÿ8ñ°İÌÃ,
+Vsquid:S1948"3Make "sapatoInteligente" transient or serializable.(€Áûÿÿÿÿ8†ˆîàÃ,
+Psquid:S1068"-Remove this unused "dtCaptura" private field.(ÿ£»—ıÿÿÿÿ8Ø–ˆÎÃ,
+}squid:UselessImportCheck"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonManagedReference'.(Æ˜µ8‹¹¼Ä,

@@ -1,0 +1,5 @@
+
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8™¯°âÃ,
+Xsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8’‚™ãÃ,
+gsquid:UselessImportCheck">Remove this unused import 'javax.validation.constraints.Null'.(ã¥˜8‘ˆ©ÎÃ,
+\squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8’‚™ãÃ,

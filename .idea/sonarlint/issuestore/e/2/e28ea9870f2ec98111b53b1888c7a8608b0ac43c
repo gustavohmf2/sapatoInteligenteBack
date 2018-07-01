@@ -1,0 +1,8 @@
+
+ysquid:UselessImportCheck"NRemove this unused import 'br.com.sapatointeligente.models.SapatoInteligente'.(¹¬«Ü8â£ûêÃ,
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(˜ãØ’úÿÿÿÿ8üêêÃ,
+Psquid:S1481#"-Remove this unused "paciente" local variable.(æ½ÛŞşÿÿÿÿ8â£ûêÃ,
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯¶àêÃ,
+dsquid:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¯¶àêÃ,
+xsquid:UselessImportCheck"HRemove this unused import 'br.com.sapatointeligente.models.Notificacao'.(ÔÚÄíüÿÿÿÿ8™ÑœëÃ,
+_squid:S1854#"<Remove this useless assignment to local variable "paciente".(æ½ÛŞşÿÿÿÿ8â£ûêÃ,

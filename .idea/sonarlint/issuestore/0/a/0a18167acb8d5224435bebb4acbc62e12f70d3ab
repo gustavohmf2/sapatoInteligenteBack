@@ -1,0 +1,5 @@
+
+fsquid:S00107%"BConstructor has 14 parameters, which is greater than 7 authorized.(Î½±ëùÿÿÿÿ8âŞÌÃ,
+Vsquid:S1948"3Make "sapatoInteligente" transient or serializable.(€Áûÿÿÿÿ8‚¿±ÍÃ,
+Psquid:S1068"-Remove this unused "dtCaptura" private field.(ÿ£»—ıÿÿÿÿ8ÅŞÁÍÃ,
+}squid:UselessImportCheck"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonManagedReference'.(Æ˜µ8È³¹¼Ä,

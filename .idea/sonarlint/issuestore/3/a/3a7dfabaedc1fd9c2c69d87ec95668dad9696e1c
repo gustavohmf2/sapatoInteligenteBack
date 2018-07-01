@@ -1,0 +1,13 @@
+
+´%squid:RedundantThrowsDeclarationCheckO"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(–¡òøÿÿÿÿ8Îü†³Ä,
+wsquid:UselessImportCheck"LRemove this unused import 'br.com.sapatointeligente.models.SensorDistancia'.(Ş…ñï8Å€„³Ä,
+|squid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¸Õæşÿÿÿÿ8…ŠâÃ,
+qsquid:UselessImportCheck"FRemove this unused import 'br.com.sapatointeligente.utils.SapatoTemp'.(ì³ ç8…€÷Ã,
+|squid:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï‹Ù»øÿÿÿÿ8•‘€³Ä,
+|squid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ï‹Ù»øÿÿÿÿ8…ŠâÃ,
+|squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï‹Ù»øÿÿÿÿ8…ŠâÃ,
+squid:UselessImportCheck"TRemove this unused import 'org.springframework.orm.hibernate5.SpringSessionContext'.(‹Ìéö8…ŠâÃ,
+dsquid:UselessImportCheck"9Remove this unused import 'javax.servlet.ServletContext'.(á¡æŞ8…ŠâÃ,
+¯%squid:RedundantThrowsDeclarationCheck5"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÃÀ¶õ8š¤×õÃ,
+wsquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıäö8—Ç âÃ,
+|squid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï‹Ù»øÿÿÿÿ8•‘€³Ä,
